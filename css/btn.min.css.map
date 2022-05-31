@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACD,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,IAAI,CACZ,aAAa,CAAE,GAAG,CAClB,gBAAgB,CAAE,OAAO,CACzB,MAAM,CAAE,IAAI,CAIf,AAHI,AAAD,SAAM,AAAC,CACH,gBAAgB,CAAE,OAAO,CAC5B",
+    "sources": [
+        "../sass/btn.scss"
+    ],
+    "names": [],
+    "file": "btn.min.css"
+}
