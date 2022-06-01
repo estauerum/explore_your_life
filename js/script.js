@@ -17,9 +17,9 @@ $('.my-slider').slick({
     adaptiveHeight: true,
     arrows: true,
     prevArrow: '<img src="icons/resourses/prev.svg" alt="prev" class="prev">',
-    nextArrow: '<img src="icons/resourses/next.svg" alt="next" class="next">',
-    autoplay: true,
-    autoplaySpeed: 2000
+    nextArrow: '<img src="icons/resourses/next.svg" alt="next" class="next">'
+    // autoplay: true,
+    // autoplaySpeed: 2000
   });
 
 
